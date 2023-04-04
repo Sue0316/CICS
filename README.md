@@ -8,6 +8,10 @@ For details on the model and data refer to our report '\report\report.pdf'
 We used the SciCite dataset to train and test our model. Download from the following link: </br>
 [Scicite Dataset](https://www.dropbox.com/s/plj9nspkwrmmpqb/scicite-data.zip?dl=0)
 
+## Pre-trained word vectors
+visit 
+[GLove](https://nlp.stanford.edu/projects/glove/.)
+Download pre-trained word vectors
 ## Setup
 The project needs Python 3.6
 ### Setup an environment manually
